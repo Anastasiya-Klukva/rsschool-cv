@@ -1,0 +1,24 @@
+{
+  "name": "rsschool-cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastasiya-Klukva/rsschool-cv.git"
+  },
+  "keywords": [],
+  "author": "klukva <Anastasiya_Piatrova3@epam.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasiya-Klukva/rsschool-cv/issues"
+  },
+  "homepage": "https://github.com/Anastasiya-Klukva/rsschool-cv#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "description": ""
+}
