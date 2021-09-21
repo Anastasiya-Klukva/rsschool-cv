@@ -9,4 +9,4 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.listen(PORT, () => console.log('Server is listening on port ' + PORT));
 
-console.log("7");
+console.log("I supposed to get the mark: 200");
